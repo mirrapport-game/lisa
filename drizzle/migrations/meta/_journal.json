@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1794257144158,
+      "tag": "0000_business_deck_core",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1794257186351,
+      "tag": "0001_card_photos_policies",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1794838624806,
+      "tag": "0002_apply_saved_setup",
+      "breakpoints": true
+    }
+  ]
+}
